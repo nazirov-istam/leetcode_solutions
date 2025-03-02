@@ -18,7 +18,6 @@ Solutions are categorized based on problem topics and difficulty levels:
  Java (Primary)
 
 🏆 Progress Tracker
-#	Problem	Difficulty	Solution
 1	Two Sum	Easy	Java
 2	Add Two Numbers	Medium	Java
 3	Longest Substring Without Repeating Characters	Medium	Java
